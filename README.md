@@ -62,15 +62,15 @@ Qualquer dúvida entrar em contato via email: bruno@trixxapp.com.br.
 
 1. Utilizar Hooks, Redux e Componente funcionais.
 
-2. Utilização de Docker.
-
-3. Utilizaçã de StyledComponents.
+2. Utilizaçã de StyledComponents.
 
 # Quais os diferenciais (Back-end)?
 
 1. Utilização de AdonisJS.
 
 2. Autenticação / ACL.
+
+3. Utilização de containers para separar aplicação/banco de dados utilizando Docker e DockerCompose.
 
 
 # Sobre
