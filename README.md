@@ -1,9 +1,8 @@
 # Trixx FullStack Code-Challenge
 
 
-![zombie](https://github.com/tugzera/code-challenge/blob/master/images/zombie.png)
+![Zombie](images/zombie.png)
 
-![Image description](link-to-image)
 
 # Contexto
 
