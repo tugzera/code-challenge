@@ -1,2 +1,3 @@
-# code-challenge
-Trixx FullStack Code-Challenge
+# Trixx FullStack Code-Challenge
+
+
