@@ -20,7 +20,7 @@ Você é um cientista em um mundo pós-apocalíptico. Em seu laboratório, você
 # O que esperamos?
 
 1. Desejamos que você faça a implementação de uma simples aplicação. Está aplicação deve conter
-tanto o backend quanto o frontend. Desejamos que a implementação do backend seja em NodeJs. E o front-end React-Native / Flutter. 
+tanto o backend quanto o frontend. Desejamos que a implementação do backend seja em NodeJs. E o front-end(mobile) React-Native / Flutter. 
 
 2. Construa uma solução com código limpo e bem estruturado.
 
@@ -52,6 +52,12 @@ Desenvolver um front-end mobile utilizando React-Native / Flutter. Que permita e
 4. Cadastrar, editar e excluir equipamentos.
 
 
+# Observações:
+
+Deixamos livre a escolha sobre qual banco de dados utilizar..
+
+Qualquer dúvida entrar em contato via email: bruno@trixxapp.com.br.
+
 # Quais os diferenciais (React-Native)?
 
 1. Utilizar Hooks, Redux e Componente funcionais.
@@ -66,3 +72,6 @@ Desenvolver um front-end mobile utilizando React-Native / Flutter. Que permita e
 
 2. Autenticação / ACL.
 
+
+# Sobre
+Você quer se juntar à nossa equipe de tecnologia? Aceite o nosso desafio e nos impressione.
